@@ -1,2 +1,2 @@
-# theme by werktisch
+# Theme by Werktisch
 Hello world!
